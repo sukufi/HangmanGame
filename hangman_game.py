@@ -1,5 +1,4 @@
 #kullanılan harfler var bunları tekrar kullanamaz harfi bulursa buldun dicek - ler olcak yerine gelcek
-from re import X
 from word import words
 import random
 import string
