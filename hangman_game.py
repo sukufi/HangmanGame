@@ -9,10 +9,6 @@ def get_word(words):
         word = random.choice(words)
     return word.upper()
 
-    
-
-
-
 def main():
     word = get_word(words)
     wordLetters = set(word)
@@ -58,8 +54,4 @@ def main():
     else:
         print(f"You win. Word was {word}")
 
-    
 main()
-
-
-
